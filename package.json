@@ -1,0 +1,48 @@
+{
+  "name": "stprop",
+  "version": "0.0.0",
+  "description": "Under construction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "deprecated": false,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/passariello/stprop",
+    "help": "https://github.com/passariello/stprop#readme"
+  },
+  "bugs": {
+    "url": "https://github.com/passariello/stprop/issues"
+  },
+  "homepage": "https://github.com/passariello/stprop",
+  "keywords": [
+    "state",
+    "window",
+    "store",
+    "easy",
+    "pro",
+    "powerful",
+    "passariello"
+  ],
+  "author": {
+    "name": "Dario Passariello",
+    "website": "https://dario.passariello.ca",
+    "email": "dariopassariello@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "contributors": [
+    {
+      "name": "Dario Passariello",
+      "email": "dariopassariello@gmail.com"
+    },
+    {
+      "name": "Valeria Cala Scaglitta",
+      "email": "valeriacalascaglitta@gmail.com"
+    }
+  ]
+}
