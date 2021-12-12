@@ -9,6 +9,10 @@
 
 (function () {
   
+  if (typeof window === 'undefined') {
+    global.window = {};
+  }
+  
   const pjson = require('./package.json');
 
   // CREATE ROOT STORE
