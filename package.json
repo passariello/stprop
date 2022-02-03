@@ -1,10 +1,10 @@
 {
   "name": "stprop",
-  "version": "0.1.4",
+  "version": "0.1.10",
   "description": "Under construction",
   "main": "index.js",
   "scripts": {
-    "postversion": "git push && git push --tags && npm publish",
+    "version": "git push && git push --tags",
     "publish": "npm version patch --force -m \"New patch commit\""
   },
   "deprecated": false,
