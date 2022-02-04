@@ -1,4 +1,31 @@
 {
+
+  "editor.hover.enabled": true,
+  "editor.hover.delay": 1000,
+  "editor.quickSuggestions": true,
+  "editor.quickSuggestionsDelay": 1000,
+
+  "editor.tabCompletion": "off",
+  "editor.renderWhitespace": "all",
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.defaultFormatter": null,
+  "editor.formatOnSave": false,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingOvertype": "always",
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": { "source.organizeImports": false },
+
+  "files.trimTrailingWhitespace": true,
+  "typescript.format.semicolons": "remove",
+  "javascript.format.semicolons" : "remove",
   "typescript.suggestionActions.enabled": false,
-  "javascript.suggestionActions.enabled": false
+  "javascript.suggestionActions.enabled": false,
+
+    "[typescript]": {},
+    "[markdown]": {},
+    "[php]": {},
+    "[css]": {},
+    "[less]": {},
+    "[js]": {}
+
 }
